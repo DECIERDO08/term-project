@@ -1,0 +1,526 @@
+.header a{
+    text-decoration: none;
+    color: rgb(51, 34, 34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 300px;
+    margin-bottom: 45px;
+    padding-top: 22px;
+    float: left;
+}
+
+section{
+    text-align: right;
+    margin-right: 300px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: rgb(51, 34, 34);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;   
+}
+
+.banner{
+    background-image: url(../images/coffee.jpg);
+    background-repeat: no-repeat;
+    height: 350px;
+    background-size: 90%;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 250px;
+    padding-left: 15px;
+}
+
+.banner-text{
+    width: 30%;
+    position: relative;
+    top: 20%;
+    left: 7.5%;
+}
+
+.banner h2{
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: #352b24;
+}
+
+.banner-text p{
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.banner a{
+    text-decoration: none;
+    padding: 15px 20px;
+    color: white;
+    background-color: #352b24;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700%;
+    margin-top: 15px;
+}
+.banner span{
+    color: #4caf59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    word-spacing: 50px;
+}
+
+.left {
+    background-image: url(../images/merchandise1.jpg);
+    width: 35%;
+    height: 315px;
+    float: left;
+    background-size: cover;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-left: 250px;
+    margin-bottom: 5%;
+    margin-top: 60px;
+  }
+
+.left-text {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 60px;
+    padding-left: 60px;
+}
+  
+.left-text a {
+    text-decoration: underline;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    position: inherit;
+    color: white
+}
+
+.right {
+    background-image: url(../images/merchandise2.jpg);
+    width: 35%;
+    height: 315px;
+    float: right;
+    background-size: cover;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-right: 285px;
+    margin-bottom: 5%;
+    margin-top: 40.5px;
+}
+
+.right-text {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.right-text a {
+    text-decoration: underline;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.WHH1 p{
+    margin-top: 55px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: rgb(175, 119, 86);
+    font-size: medium;
+    position: relative;
+}
+
+.WHH1 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #312a26;
+    text-align: center;
+}
+
+.products p {
+    color: rgb(175, 119, 86);
+}
+
+.c1 {
+    float: left;
+    margin-left: 320px;
+    margin-top: 15px;
+}
+
+.c2 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.c3 {
+    float: left;
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.c4 {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.photo {
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    width: 90%;
+    margin-top: 35px;
+    margin-left: 90px;
+    margin-right: 50px;
+    background-position: center;
+    height: 300px;
+}
+
+.photo-text {
+    text-align: center;
+    padding-top: 90px;
+}
+
+.photo-text p{
+    color:rgb(175, 119, 86);
+    
+}
+
+.photo-text h2 {
+    color: white;
+}
+ 
+.photo-text a {
+    text-decoration: underline;
+    padding: 15px 20px;
+    color: black;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500%;
+    margin-top: 15px;
+    
+}
+
+.WHH2 p{
+    font-family: sans-serif;
+    font-style: oblique;
+    color: rgb(175, 119, 86);
+    font-size: medium;
+    text-align: center;
+}
+
+.WHH2 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #312a26;
+    text-align: center;
+}
+
+.pouches p{
+    color: rgb(175, 119, 86);
+}
+
+.p1 {
+    float: left;
+    margin-left: 330px;
+    margin-top: 15px;
+}
+
+.p2 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.p3 {
+    float: left;
+    margin-left: 2px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.p4 {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.ads a{
+    text-decoration: none;
+    color: white;
+    text-decoration: underline;
+    padding-left: 10%;
+}
+  
+.ads1 {
+    background-image: url(../images/merchandise3.jpg);
+    width: 35%;
+    float: left;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-left: 275px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+  
+.ads2 {
+    background-image: url(../images/merchandise4.jpg);
+    width: 35%;
+    float: right;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-right: 275px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+  
+.ads3 {
+    background-image: url(../images/merchandise5.jpg);
+    width: 35%;
+    float: left;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-left: 275px;
+    margin-bottom: 40px;
+    margin-top: 2px;
+}
+  
+.ads4 {
+    background-image: url(../images/merchandise6.jpg);
+    width: 35%;
+    float: right;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    background-color: #312a26;
+    position: relative;
+    margin-right: 275px;
+    margin-bottom: 40px;
+    margin-top: 2px;
+}
+  
+.ads h4 {
+    text-align: left;
+    padding-top: 12%;
+    padding-left: 10%;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.name {
+    background-color: rgb(128, 128, 128, 0.2);
+    padding: 1em;
+    width: 46%;
+    height: 200px;
+    display: inline-table;
+  }
+  .additional {
+    background-color: rgb(128, 128, 128, 0.2);
+    margin-top: 5px;
+    padding: 1em;
+    width: 44%;
+    height: 150px;
+    display: inline-table;
+  }
+  .form{
+    font-family: Impact;
+  }
+  .payment {
+    background-color: inherit;
+  }
+  John Michael Vincent
+  John Michael Vincent Bajenting
+  .payment h3{
+    text-align: center;
+    font-size: 20px;
+  }
+  .payment p{
+    text-align: center;
+  }
+  .Submit {
+    text-align: center;
+  }
+
+
+.info {
+    width: 100%;
+    height: 275px;
+    background-image: url(../images/footer-img.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    font-size: small;
+}
+.info h2 {
+    font-size: medium;
+    color: white;
+}
+.info h3 {
+    color: white;
+}
+.info h4 {
+    color: white;
+}
+.info p {
+    color: white;
+}
+.info a {
+    color: #c7a17a;
+    text-decoration: none;
+}
+
+.opening {
+    float: left;
+    width: 21.5%;
+    margin-left: 7%;
+    padding-top: 2%;
+    line-height: normal;
+    color: white;
+}
+.opening h2 {
+    text-transform: uppercase;
+}
+.opening th {
+    text-align: center;
+    color: white;
+}
+.opening td,
+.opening tbody {
+    color: white;
+}
+
+.latest {
+    float: left;
+    padding-top: 2%;
+    width: 21.5%;
+    margin: auto;
+    color: white;
+}
+.latest h2 {
+    padding-top: 3%;
+    text-transform: uppercase;
+}
+.latest h4 {
+    text-transform: uppercase;
+}
+.latest p {
+    color: #c7a17a;
+}
+
+.contact {
+    float: left;
+    padding-top: 2%;
+    width: 21.5%;
+}
+.contact h2 {
+    text-transform: uppercase;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.contact a, 
+.contact p {
+    font-weight: bold;
+}
+.contact h3 {
+    padding-bottom: -50%;
+    padding-top: 5%;
+    text-transform: uppercase;
+}
+.contact form {
+    padding-top: -10%;
+}
+.standard input {
+    height: 30px;
+}
+.standard button {
+    height: 30px;
+    width: 45px;
+    font-size: 10px;
+    background-color: #c7a17a;
+    border: none;
+}
+
+.location {
+    float: right;
+    padding-top: 2%;
+    width: 21.5%;
+    margin-right: 7%;
+}
+.location h2 {
+    text-transform: uppercase;
+    padding-top: 3%;
+}
+.location h3 {
+    color: #c7a17a;
+    padding-top: 5%;
+}
+.location p {
+    font-weight: bold;
+}
+
+.footer {
+    background-color: black;
+    height: 100%;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.footer h3 {
+    color: white;
+    display: block;
+    padding-left: 40px;
+}
+
+.footer li, a {
+    text-decoration: underline;
+    color: white;
+    display: inline-flex;
+    text-align: center;
+    display: inline;
+}
+ 
+.footer p{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.copyright {
+    color: white;
+    padding-right: 1px;
+}
